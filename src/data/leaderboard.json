@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Emma Wilson",
+    "avatar": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "xp": 2450,
+    "level": 12,
+    "badges": 18,
+    "streak": 15
+  },
+  {
+    "id": "2",
+    "name": "James Chen",
+    "avatar": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "xp": 2380,
+    "level": 11,
+    "badges": 16,
+    "streak": 12
+  },
+  {
+    "id": "3",
+    "name": "Sofia Rodriguez",
+    "avatar": "https://images.pexels.com/photos/1181424/pexels-photo-1181424.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "xp": 2290,
+    "level": 11,
+    "badges": 15,
+    "streak": 8
+  },
+  {
+    "id": "4",
+    "name": "Marcus Johnson",
+    "avatar": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "xp": 2150,
+    "level": 10,
+    "badges": 14,
+    "streak": 10
+  },
+  {
+    "id": "5",
+    "name": "Aisha Patel",
+    "avatar": "https://images.pexels.com/photos/1181424/pexels-photo-1181424.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+    "xp": 2050,
+    "level": 10,
+    "badges": 13,
+    "streak": 7
+  }
+]

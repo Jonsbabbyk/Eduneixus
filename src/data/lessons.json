@@ -1,0 +1,827 @@
+[
+  {
+    "id": "math-001",
+    "title": "Introduction to Quadratic Equations",
+    "subject": "Mathematics",
+    "level": "Grade 10",
+    "xp": 50,
+    "duration": "15 minutes",
+    "description": "Learn the basics of quadratic equations and how to solve them.",
+    "content": {
+      "theory": "A quadratic equation is a polynomial equation of degree 2. The standard form is $$ax^2 + bx + c = 0$$, where $$a ≠ 0$$. The solutions to this equation are also known as its roots or zeros.",
+      "equation": "$$ax^2 + bx + c = 0$$",
+      "examples": [
+        "$$x^2 + 5x + 6 = 0$$",
+        "$$2x^2 - 3x - 2 = 0$$"
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the standard form of a quadratic equation?",
+          "options": [
+            "ax + b = 0",
+            "$$ax^2 + bx + c = 0$$",
+            "$$ax^3 + bx^2 + cx + d = 0$$",
+            "$$ax^2 + b = 0$$"
+          ],
+          "correct": 1,
+          "explanation": "The standard form of a quadratic equation is $$ax^2 + bx + c = 0$$, where 'a' cannot be zero."
+        },
+        {
+          "id": 2,
+          "question": "In the equation $$3x^2 + 2x - 1 = 0$$, what is the value of 'a'?",
+          "options": ["1", "2", "3", "-1"],
+          "correct": 2,
+          "explanation": "In the standard form $$ax^2 + bx + c = 0$$, the coefficient of $$x^2$$ is 'a', which is 3."
+        },
+        {
+          "id": 3,
+          "question": "What are the solutions to a quadratic equation called?",
+          "options": ["Factors", "Zeros", "Exponents", "Terms"],
+          "correct": 1,
+          "explanation": "The solutions to a quadratic equation are also referred to as its zeros or roots."
+        },
+        {
+          "id": 4,
+          "question": "Which of these is NOT a quadratic equation?",
+          "options": ["$$x^2 - 9 = 0$$", "$$5x + 2 = 0$$", "$$2x^2 + 7x = 0$$", "$$x^2 - x - 12 = 0$$"],
+          "correct": 1,
+          "explanation": "The equation $$5x + 2 = 0$$ is a linear equation because the highest power of x is 1."
+        },
+        {
+          "id": 5,
+          "question": "What is the degree of a quadratic equation?",
+          "options": ["1", "2", "3", "0"],
+          "correct": 1,
+          "explanation": "A quadratic equation is a polynomial of degree 2, meaning the highest exponent of the variable is 2."
+        },
+        {
+          "id": 6,
+          "question": "If an equation has a term like $$x^2$$, it is likely to be a...",
+          "options": ["Linear equation", "Quadratic equation", "Cubic equation", "Polynomial"],
+          "correct": 1,
+          "explanation": "The presence of an $$x^2$$ term (and no higher power) is a defining characteristic of a quadratic equation."
+        },
+        {
+          "id": 7,
+          "question": "What is the value of 'b' in the equation $$x^2 - 5 = 0$$?",
+          "options": ["0", "1", "-5", "x"],
+          "correct": 0,
+          "explanation": "The standard form is $$ax^2 + bx + c = 0$$. In this equation, there is no 'bx' term, so 'b' is 0."
+        },
+        {
+          "id": 8,
+          "question": "How many real solutions can a quadratic equation have?",
+          "options": ["Exactly one", "Exactly two", "One, two, or none", "Any number"],
+          "correct": 2,
+          "explanation": "A quadratic equation can have two distinct real solutions, one repeated real solution, or no real solutions (two complex solutions)."
+        },
+        {
+          "id": 9,
+          "question": "What is the 'a' term called in $$ax^2 + bx + c = 0$$?",
+          "options": ["The constant term", "The linear coefficient", "The quadratic coefficient", "The variable"],
+          "correct": 2,
+          "explanation": "The 'a' term is the coefficient of the $$x^2$$ term, hence it is the quadratic coefficient."
+        },
+        {
+          "id": 10,
+          "question": "The graph of a quadratic equation is a U-shaped curve called a...",
+          "options": ["Line", "Circle", "Parabola", "Hyperbola"],
+          "correct": 2,
+          "explanation": "The graph of any quadratic equation is a parabola."
+        }
+      ]
+    }
+  },
+  {
+    "id": "sci-001",
+    "title": "Photosynthesis Process",
+    "subject": "Biology",
+    "level": "Grade 9",
+    "xp": 40,
+    "duration": "12 minutes",
+    "description": "Understand how plants convert sunlight into energy.",
+    "content": {
+      "theory": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce glucose (sugar) and oxygen. This process is vital for life on Earth as it produces the food for plants and the oxygen we breathe.",
+      "equation": "$$6CO_2 + 6H_2O + \\text{Light Energy} \\to C_6H_{12}O_6 + 6O_2$$",
+      "examples": [
+        "Plants absorb water through their roots.",
+        "Carbon dioxide enters the leaves through small pores called stomata."
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "What are the main inputs for photosynthesis?",
+          "options": [
+            "Oxygen and glucose",
+            "Carbon dioxide, water, and sunlight",
+            "Nitrogen and phosphorus",
+            "Glucose and water"
+          ],
+          "correct": 1,
+          "explanation": "Photosynthesis requires carbon dioxide ($$CO_2$$), water ($$H_2O$$), and light energy to produce glucose and oxygen."
+        },
+        {
+          "id": 2,
+          "question": "What is the primary byproduct of photosynthesis?",
+          "options": ["Water", "Carbon dioxide", "Oxygen", "Glucose"],
+          "correct": 2,
+          "explanation": "Oxygen ($$O_2$$) is released into the atmosphere as a byproduct."
+        },
+        {
+          "id": 3,
+          "question": "Where does photosynthesis primarily take place in a plant?",
+          "options": ["Roots", "Stem", "Leaves", "Flowers"],
+          "correct": 2,
+          "explanation": "Photosynthesis occurs in chloroplasts, which are most abundant in the leaves."
+        },
+        {
+          "id": 4,
+          "question": "What is the name of the green pigment that captures light energy?",
+          "options": ["Carotenoid", "Chlorophyll", "Melanin", "Xanthophyll"],
+          "correct": 1,
+          "explanation": "Chlorophyll is the pigment responsible for absorbing the sunlight needed for photosynthesis."
+        },
+        {
+          "id": 5,
+          "question": "The glucose produced is used by the plant for...",
+          "options": ["Water absorption", "Energy storage", "Photosynthesis", "Breathing"],
+          "correct": 1,
+          "explanation": "Glucose ($$C_6H_{12}O_6$$) is a sugar that serves as the plant's food and energy source."
+        },
+        {
+          "id": 6,
+          "question": "Which of these gases is absorbed by plants from the atmosphere during photosynthesis?",
+          "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+          "correct": 2,
+          "explanation": "Plants take in carbon dioxide ($$CO_2$$) from the air to use as a reactant."
+        },
+        {
+          "id": 7,
+          "question": "In the chemical equation, what does $$H_2O$$ represent?",
+          "options": ["Hydrogen", "Water", "Oxygen", "Glucose"],
+          "correct": 1,
+          "explanation": "$$H_2O$$ is the chemical formula for water."
+        },
+        {
+          "id": 8,
+          "question": "Photosynthesis is an example of what type of reaction?",
+          "options": ["Catabolic", "Anabolic", "Fermentation", "Combustion"],
+          "correct": 1,
+          "explanation": "It is an anabolic (building-up) process, as it synthesizes complex molecules (glucose) from simpler ones."
+        },
+        {
+          "id": 9,
+          "question": "What is the role of stomata in photosynthesis?",
+          "options": ["Absorbing water from soil", "Releasing oxygen and taking in $$CO_2$$", "Supporting the plant stem", "Storing light energy"],
+          "correct": 1,
+          "explanation": "Stomata are pores that allow for gas exchange, including the intake of $$CO_2$$ and release of $$O_2$$."
+        },
+        {
+          "id": 10,
+          "question": "The energy converted during photosynthesis is from...",
+          "options": ["Mechanical to chemical", "Light to chemical", "Heat to light", "Chemical to heat"],
+          "correct": 1,
+          "explanation": "Light energy from the sun is converted into chemical energy stored in the bonds of glucose molecules."
+        }
+      ]
+    }
+  },
+  {
+    "id": "hist-001",
+    "title": "World War II Timeline",
+    "subject": "History",
+    "level": "Grade 11",
+    "xp": 35,
+    "duration": "18 minutes",
+    "description": "Key events and dates of World War II.",
+    "content": {
+      "theory": "World War II was a global conflict that lasted from 1939 to 1945, involving the vast majority of the world's nations. It was the deadliest conflict in human history.",
+      "timeline": [
+        "1939: Germany invades Poland, starting the war in Europe.",
+        "1941: Japan's attack on Pearl Harbor brings the United States into the war.",
+        "1944: D-Day landings in Normandy, France.",
+        "1945: The war ends with the surrender of Germany and Japan."
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "When did World War II officially begin?",
+          "options": ["1938", "1939", "1940", "1941"],
+          "correct": 1,
+          "explanation": "World War II began on September 1, 1939, with Germany's invasion of Poland."
+        },
+        {
+          "id": 2,
+          "question": "The attack on Pearl Harbor brought which country into the war?",
+          "options": ["The United States", "The Soviet Union", "Great Britain", "China"],
+          "correct": 0,
+          "explanation": "The Japanese attack on the US naval base at Pearl Harbor on December 7, 1941, led to the US declaring war."
+        },
+        {
+          "id": 3,
+          "question": "What was the name of the Allied invasion of Normandy on June 6, 1944?",
+          "options": ["Operation Barbarossa", "Operation Overlord", "The Battle of the Bulge", "Operation Torch"],
+          "correct": 1,
+          "explanation": "The codename for the Normandy invasion was Operation Overlord."
+        },
+        {
+          "id": 4,
+          "question": "Which of these was NOT a major Axis power?",
+          "options": ["Germany", "Italy", "Japan", "France"],
+          "correct": 3,
+          "explanation": "France was an Allied power, while Germany, Italy, and Japan were the main Axis powers."
+        },
+        {
+          "id": 5,
+          "question": "What event led to the final surrender of Japan?",
+          "options": ["The Battle of Okinawa", "The Battle of Midway", "The Doolittle Raid", "The atomic bombings of Hiroshima and Nagasaki"],
+          "correct": 3,
+          "explanation": "The dropping of atomic bombs on Hiroshima and Nagasaki in August 1945 led to Japan's unconditional surrender."
+        },
+        {
+          "id": 6,
+          "question": "The Battle of Britain was fought primarily in the...",
+          "options": ["Air", "Sea", "Desert", "Jungles"],
+          "correct": 0,
+          "explanation": "The Battle of Britain was a major air campaign fought over the skies of the United Kingdom."
+        },
+        {
+          "id": 7,
+          "question": "Who was the leader of Nazi Germany during World War II?",
+          "options": ["Benito Mussolini", "Joseph Stalin", "Winston Churchill", "Adolf Hitler"],
+          "correct": 3,
+          "explanation": "Adolf Hitler was the dictator of Germany and the leader of the Nazi Party."
+        },
+        {
+          "id": 8,
+          "question": "Which major battle was a turning point on the Eastern Front, ending Germany's advance into the Soviet Union?",
+          "options": ["Battle of Moscow", "Battle of Kursk", "Battle of Stalingrad", "Siege of Leningrad"],
+          "correct": 2,
+          "explanation": "The Battle of Stalingrad was a decisive Soviet victory that marked a major turning point in the war."
+        },
+        {
+          "id": 9,
+          "question": "What was the name of the German secret police?",
+          "options": ["Wehrmacht", "Luftwaffe", "Gestapo", "SS"],
+          "correct": 2,
+          "explanation": "The Gestapo was the official secret police of Nazi Germany."
+        },
+        {
+          "id": 10,
+          "question": "The formal end of World War II came with the signing of the surrender on what date?",
+          "options": ["September 1, 1939", "May 8, 1945", "September 2, 1945", "December 7, 1941"],
+          "correct": 2,
+          "explanation": "Japan formally surrendered on September 2, 1945, ending the war."
+        }
+      ]
+    }
+  },
+  {
+    "id": "chem-001",
+    "title": "Introduction to Chemistry",
+    "subject": "Chemistry",
+    "level": "Grade 9",
+    "xp": 45,
+    "duration": "10 minutes",
+    "description": "Learn the basic principles of chemistry, including atoms, elements, and the periodic table.",
+    "content": {
+      "theory": "Chemistry is the study of matter and its properties. Everything is made of atoms, which are the basic building blocks of matter. Atoms are made of protons, neutrons, and electrons. The periodic table organizes all known elements.",
+      "equation": "$$H_2O$$",
+      "examples": [
+        "The element 'H' is Hydrogen, and 'O' is Oxygen.",
+        "A molecule of water is made of two Hydrogen atoms and one Oxygen atom."
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the smallest unit of an element that retains its chemical properties?",
+          "options": ["A molecule", "An atom", "A proton", "An electron"],
+          "correct": 1,
+          "explanation": "An atom is the fundamental unit of a chemical element."
+        },
+        {
+          "id": 2,
+          "question": "Which of these subatomic particles has a positive charge?",
+          "options": ["Neutron", "Proton", "Electron", "Ion"],
+          "correct": 1,
+          "explanation": "Protons have a positive (+) charge."
+        },
+        {
+          "id": 3,
+          "question": "What is the name for the table that organizes all known chemical elements?",
+          "options": ["The Chemistry Chart", "The Element Table", "The Periodic Table", "The Molecular Chart"],
+          "correct": 2,
+          "explanation": "The Periodic Table of Elements is a systematic arrangement of all known chemical elements."
+        },
+        {
+          "id": 4,
+          "question": "Which element is represented by the symbol 'O'?",
+          "options": ["Gold", "Oxygen", "Iron", "Carbon"],
+          "correct": 1,
+          "explanation": "The chemical symbol for Oxygen is 'O'."
+        },
+        {
+          "id": 5,
+          "question": "What is the term for a substance made of two or more different elements chemically bonded together?",
+          "options": ["An atom", "A mixture", "A compound", "An isotope"],
+          "correct": 2,
+          "explanation": "A compound is formed when atoms of different elements are bonded together, such as $$H_2O$$ (water)."
+        },
+        {
+          "id": 6,
+          "question": "What is the charge of an electron?",
+          "options": ["Positive", "Negative", "Neutral", "It has no charge"],
+          "correct": 1,
+          "explanation": "Electrons have a negative (-) charge."
+        },
+        {
+          "id": 7,
+          "question": "The atomic number of an element is determined by the number of...",
+          "options": ["Neutrons", "Electrons", "Protons", "Atoms"],
+          "correct": 2,
+          "explanation": "The number of protons in an atom's nucleus is its unique atomic number."
+        },
+        {
+          "id": 8,
+          "question": "Which of the following is an example of a chemical change?",
+          "options": ["Melting ice", "Tearing paper", "Rusting iron", "Boiling water"],
+          "correct": 2,
+          "explanation": "Rusting iron is a chemical reaction that creates a new substance (iron oxide), which is a chemical change."
+        },
+        {
+          "id": 9,
+          "question": "What is the chemical formula for table salt?",
+          "options": ["$$H_2O$$", "NaCl", "$$CO_2$$", "$$C_6H_{12}O_6$$"],
+          "correct": 1,
+          "explanation": "The chemical formula for sodium chloride (table salt) is NaCl."
+        },
+        {
+          "id": 10,
+          "question": "What does a subscript number in a chemical formula represent (e.g., the '2' in $$H_2O$$)?",
+          "options": ["Number of elements", "Number of atoms of that element", "Charge of the molecule", "Mass of the element"],
+          "correct": 1,
+          "explanation": "The subscript indicates how many atoms of that element are in the molecule."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cs-001",
+    "title": "Python Programming Basics",
+    "subject": "Computer Science",
+    "level": "Beginner",
+    "xp": 60,
+    "duration": "20 minutes",
+    "description": "Learn the very first steps in Python, including variables, data types, and printing output.",
+    "content": {
+      "theory": "Python is a popular programming language known for its simple and readable syntax. You can use it to create variables, which are like containers for data. Common data types include strings (text), integers (whole numbers), and booleans (True/False).",
+      "examples": [
+        "To create a variable, you can write `message = 'Hello, World!'`",
+        "The `print()` function is used to display output to the screen, like `print(message)`."
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the correct way to declare a variable and assign the number 5 to it in Python?",
+          "options": ["x := 5", "x = 5", "let x = 5", "x is 5"],
+          "correct": 1,
+          "explanation": "In Python, variables are assigned using a single equals sign."
+        },
+        {
+          "id": 2,
+          "question": "What is the output of `print('Python is ' + 'fun')`?",
+          "options": ["'Python is fun'", "'Python is' 'fun'", "Pythonisfun", "Python is fun"],
+          "correct": 3,
+          "explanation": "The '+' operator concatenates strings, and the print function displays the result without quotes."
+        },
+        {
+          "id": 3,
+          "question": "What data type is the value `3.14`?",
+          "options": ["Integer", "String", "Boolean", "Float"],
+          "correct": 3,
+          "explanation": "A 'float' is a number with a decimal point."
+        },
+        {
+          "id": 4,
+          "question": "Which of these is a valid variable name in Python?",
+          "options": ["my-variable", "2nd_variable", "my_variable", "my variable"],
+          "correct": 2,
+          "explanation": "Variable names can contain letters, numbers, and underscores, but cannot start with a number or contain hyphens or spaces."
+        },
+        {
+          "id": 5,
+          "question": "What does the following code do? `if x > 10:`",
+          "options": ["Assigns 10 to x", "Checks if x is greater than 10", "Prints 'x > 10'", "Sets x to 10"],
+          "correct": 1,
+          "explanation": "The 'if' statement is used for conditional checks. The '>' is the 'greater than' operator."
+        },
+        {
+          "id": 6,
+          "question": "How do you start a single-line comment in Python?",
+          "options": ["// This is a comment", "/* This is a comment */", "# This is a comment", "'This is a comment'"],
+          "correct": 2,
+          "explanation": "A '#' symbol is used to denote a single-line comment in Python."
+        },
+        {
+          "id": 7,
+          "question": "What is the output of `print(10 / 2)`?",
+          "options": ["5", "5.0", "Error", "10"],
+          "correct": 1,
+          "explanation": "The division operator (`/`) in Python 3 always returns a float, so the output is 5.0."
+        },
+        {
+          "id": 8,
+          "question": "What is the correct syntax for a `while` loop?",
+          "options": ["`while (condition)`", "`while condition:`", "`loop while condition`", "`do while condition`"],
+          "correct": 1,
+          "explanation": "The correct syntax for a while loop is `while` followed by a condition and a colon."
+        },
+        {
+          "id": 9,
+          "question": "What will `print(type('hello'))` output?",
+          "options": ["<class 'string'>", "<class 'str'>", "string", "str"],
+          "correct": 1,
+          "explanation": "The `type()` function returns the data type, and the `print()` function displays the result. The string type is 'str'."
+        },
+        {
+          "id": 10,
+          "question": "What is the result of `len('programming')`?",
+          "options": ["11", "12", "10", "9"],
+          "correct": 0,
+          "explanation": "The `len()` function returns the number of characters in a string. 'programming' has 11 letters."
+        }
+      ]
+    }
+  },
+  {
+    "id": "astro-001",
+    "title": "The Solar System",
+    "subject": "Astronomy",
+    "level": "Grade 7",
+    "xp": 30,
+    "duration": "10 minutes",
+    "description": "Explore the planets, moons, and other celestial bodies that make up our solar system.",
+    "content": {
+      "theory": "Our solar system consists of the Sun and everything that orbits around it, including eight planets, their moons, dwarf planets, and countless asteroids and comets. The four inner planets are rocky, while the four outer planets are gas giants.",
+      "examples": [
+        "The four inner planets are Mercury, Venus, Earth, and Mars.",
+        "The four outer planets are Jupiter, Saturn, Uranus, and Neptune."
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which planet is known as the 'Red Planet'?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correct": 1,
+          "explanation": "Mars gets its reddish color from iron oxide, or rust, on its surface."
+        },
+        {
+          "id": 2,
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+          "correct": 2,
+          "explanation": "Jupiter is a gas giant and is the largest planet in our solar system."
+        },
+        {
+          "id": 3,
+          "question": "Which planet is closest to the Sun?",
+          "options": ["Venus", "Mars", "Mercury", "Earth"],
+          "correct": 2,
+          "explanation": "Mercury is the planet in the solar system closest to the Sun."
+        },
+        {
+          "id": 4,
+          "question": "Which planet is famous for its large, visible rings?",
+          "options": ["Uranus", "Jupiter", "Saturn", "Neptune"],
+          "correct": 2,
+          "explanation": "Saturn is known for its beautiful and extensive ring system."
+        },
+        {
+          "id": 5,
+          "question": "The Sun is a...",
+          "options": ["Planet", "Star", "Moon", "Galaxy"],
+          "correct": 1,
+          "explanation": "The Sun is the star at the center of our solar system."
+        },
+        {
+          "id": 6,
+          "question": "What separates the inner and outer planets?",
+          "options": ["The Asteroid Belt", "The Oort Cloud", "The Kuiper Belt", "The Milky Way"],
+          "correct": 0,
+          "explanation": "The Asteroid Belt is located between the orbits of Mars and Jupiter."
+        },
+        {
+          "id": 7,
+          "question": "Which of these is NOT a planet in our solar system?",
+          "options": ["Mercury", "Pluto", "Uranus", "Neptune"],
+          "correct": 1,
+          "explanation": "Pluto was reclassified as a dwarf planet in 2006."
+        },
+        {
+          "id": 8,
+          "question": "Which planet is considered Earth's 'twin' due to its similar size?",
+          "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+          "correct": 1,
+          "explanation": "Venus is often called Earth's twin because of its similar size and mass."
+        },
+        {
+          "id": 9,
+          "question": "A celestial body that orbits a planet is called a...",
+          "options": ["Star", "Asteroid", "Comet", "Moon"],
+          "correct": 3,
+          "explanation": "Moons are natural satellites that orbit planets."
+        },
+        {
+          "id": 10,
+          "question": "The time it takes for Earth to orbit the Sun is approximately...",
+          "options": ["30 days", "24 hours", "365 days", "10 years"],
+          "correct": 2,
+          "explanation": "It takes Earth about 365.25 days to complete one orbit around the Sun."
+        }
+      ]
+    }
+  },
+  {
+    "id": "eng-001",
+    "title": "Grammar: Parts of Speech",
+    "subject": "English Language",
+    "level": "Grade 8",
+    "xp": 25,
+    "duration": "10 minutes",
+    "description": "Identify and understand the different parts of speech, including nouns, verbs, and adjectives.",
+    "content": {
+      "theory": "The eight parts of speech are noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection. Each one plays a specific role in a sentence to create meaning.",
+      "examples": [
+        "**Noun:** a person, place, thing, or idea (e.g., dog, city, happiness)",
+        "**Verb:** an action or state of being (e.g., run, is, think)"
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "In the sentence 'The quick brown fox jumps over the lazy dog', what part of speech is 'fox'?",
+          "options": ["Verb", "Adjective", "Noun", "Adverb"],
+          "correct": 2,
+          "explanation": "A fox is a thing (animal), making it a noun."
+        },
+        {
+          "id": 2,
+          "question": "Which part of speech describes a noun?",
+          "options": ["Adverb", "Verb", "Preposition", "Adjective"],
+          "correct": 3,
+          "explanation": "Adjectives modify or describe nouns."
+        },
+        {
+          "id": 3,
+          "question": "What is the verb in the sentence 'She sings beautifully'?",
+          "options": ["She", "sings", "beautifully", "is"],
+          "correct": 1,
+          "explanation": "'Sings' is the action being performed."
+        },
+        {
+          "id": 4,
+          "question": "An adverb typically modifies a...",
+          "options": ["Noun", "Pronoun", "Verb", "Conjunction"],
+          "correct": 2,
+          "explanation": "Adverbs modify verbs, adjectives, or other adverbs."
+        },
+        {
+          "id": 5,
+          "question": "Which part of speech connects words, phrases, or clauses?",
+          "options": ["Preposition", "Conjunction", "Interjection", "Adverb"],
+          "correct": 1,
+          "explanation": "A conjunction (e.g., 'and', 'but', 'or') joins parts of a sentence."
+        },
+        {
+          "id": 6,
+          "question": "In 'He ran quickly', what is the adverb?",
+          "options": ["He", "ran", "quickly", "none"],
+          "correct": 2,
+          "explanation": "'Quickly' describes how he ran, making it an adverb."
+        },
+        {
+          "id": 7,
+          "question": "What is a pronoun?",
+          "options": ["A word that names a person", "A word that takes the place of a noun", "A linking word", "A descriptive word"],
+          "correct": 1,
+          "explanation": "A pronoun (e.g., he, she, it) is used to avoid repeating nouns."
+        },
+        {
+          "id": 8,
+          "question": "The word 'on' in 'The book is on the table' is a...",
+          "options": ["Verb", "Preposition", "Conjunction", "Adverb"],
+          "correct": 1,
+          "explanation": "A preposition shows the relationship between a noun and another word."
+        },
+        {
+          "id": 9,
+          "question": "Which part of speech is 'happy' in 'He is a happy person'?",
+          "options": ["Noun", "Adjective", "Adverb", "Verb"],
+          "correct": 1,
+          "explanation": "'Happy' describes the person, making it an adjective."
+        },
+        {
+          "id": 10,
+          "question": "What is the part of speech of the word 'Wow!'?",
+          "options": ["Verb", "Noun", "Interjection", "Adjective"],
+          "correct": 2,
+          "explanation": "An interjection is a word used to express an emotion."
+        }
+      ]
+    }
+  },
+  {
+    "id": "geo-001",
+    "title": "Introduction to Geography",
+    "subject": "Geography",
+    "level": "Grade 7",
+    "xp": 30,
+    "duration": "10 minutes",
+    "description": "Explore the basics of geography, including continents, oceans, and major landforms.",
+    "content": {
+      "theory": "Geography is the study of places and the relationships between people and their environments. The Earth is divided into seven continents and five major oceans.",
+      "examples": [
+        "The seven continents are Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+        "The five major oceans are the Pacific, Atlantic, Indian, Southern, and Arctic."
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the largest continent by land area?",
+          "options": ["Africa", "Europe", "Asia", "North America"],
+          "correct": 2,
+          "explanation": "Asia is the largest continent in the world."
+        },
+        {
+          "id": 2,
+          "question": "Which is the smallest continent?",
+          "options": ["Europe", "Antarctica", "Australia", "South America"],
+          "correct": 2,
+          "explanation": "Australia is the smallest of the seven continents."
+        },
+        {
+          "id": 3,
+          "question": "What is the largest ocean on Earth?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+          "correct": 3,
+          "explanation": "The Pacific Ocean is the largest and deepest ocean."
+        },
+        {
+          "id": 4,
+          "question": "What is a major landform defined as a large, continuous expanse of land?",
+          "options": ["An ocean", "A continent", "A mountain range", "A desert"],
+          "correct": 1,
+          "explanation": "A continent is a large landmass, such as Asia or Africa."
+        },
+        {
+          "id": 5,
+          "question": "The imaginary line that divides the Earth into the Northern and Southern Hemispheres is called the...",
+          "options": ["Prime Meridian", "Equator", "Tropic of Cancer", "International Date Line"],
+          "correct": 1,
+          "explanation": "The Equator is the line of latitude at 0°."
+        },
+        {
+          "id": 6,
+          "question": "Which continent is located at the South Pole?",
+          "options": ["Australia", "Asia", "South America", "Antarctica"],
+          "correct": 3,
+          "explanation": "Antarctica is the continent surrounding the Earth's South Pole."
+        },
+        {
+          "id": 7,
+          "question": "A group of islands is known as a(n)...",
+          "options": ["Archipelago", "Peninsula", "Isthmus", "Plateau"],
+          "correct": 0,
+          "explanation": "An archipelago is a group of islands closely scattered in a body of water."
+        },
+        {
+          "id": 8,
+          "question": "What is the highest mountain range in the world?",
+          "options": ["The Andes", "The Rockies", "The Alps", "The Himalayas"],
+          "correct": 3,
+          "explanation": "The Himalayas contain the world's highest peaks, including Mount Everest."
+        },
+        {
+          "id": 9,
+          "question": "Which of these is a famous desert in Africa?",
+          "options": ["Gobi Desert", "Atacama Desert", "Sahara Desert", "Great Victoria Desert"],
+          "correct": 2,
+          "explanation": "The Sahara is the largest hot desert in the world, located in North Africa."
+        },
+        {
+          "id": 10,
+          "question": "What is the study of Earth's physical features and the people who inhabit it?",
+          "options": ["Biology", "Geology", "Meteorology", "Geography"],
+          "correct": 3,
+          "explanation": "Geography is the scientific study of the Earth and its features."
+        }
+      ]
+    }
+  },
+  {
+    "id": "art-001",
+    "title": "Introduction to Art History",
+    "subject": "Art",
+    "level": "Grade 8",
+    "xp": 35,
+    "duration": "15 minutes",
+    "description": "Discover key movements, artists, and artworks from different periods of art history.",
+    "content": {
+      "theory": "Art history is the study of objects of art in their historical and stylistic context. Major movements include Renaissance, Baroque, Impressionism, and Cubism.",
+      "examples": [
+        "**Renaissance:** Leonardo da Vinci, Michelangelo",
+        "**Impressionism:** Claude Monet, Vincent van Gogh"
+      ]
+    },
+    "quiz": {
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which artist painted the 'Mona Lisa'?",
+          "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+          "correct": 2,
+          "explanation": "The 'Mona Lisa' is one of the most famous paintings by Leonardo da Vinci."
+        },
+        {
+          "id": 2,
+          "question": "What art movement is known for its use of light and visible brushstrokes to capture a fleeting moment?",
+          "options": ["Renaissance", "Cubism", "Impressionism", "Baroque"],
+          "correct": 2,
+          "explanation": "Impressionism is characterized by its focus on light and momentary effects."
+        },
+        {
+          "id": 3,
+          "question": "Pablo Picasso was a pioneer of which art movement?",
+          "options": ["Surrealism", "Impressionism", "Cubism", "Abstract Expressionism"],
+          "correct": 2,
+          "explanation": "Picasso co-founded the Cubist movement, which revolutionized painting and sculpture."
+        },
+        {
+          "id": 4,
+          "question": "The 'Sistine Chapel ceiling' was painted by which artist?",
+          "options": ["Raphael", "Michelangelo", "Donatello", "Leonardo da Vinci"],
+          "correct": 1,
+          "explanation": "Michelangelo spent four years painting the famous ceiling in the Vatican's Sistine Chapel."
+        },
+        {
+          "id": 5,
+          "question": "What famous painting features a swirling night sky over a small town?",
+          "options": ["The Scream", "The Starry Night", "Sunflowers", "Guernica"],
+          "correct": 1,
+          "explanation": "'The Starry Night' is a masterpiece by Vincent van Gogh."
+        },
+        {
+          "id": 6,
+          "question": "Which period of art is known for its dramatic, elaborate, and ornate styles?",
+          "options": ["Gothic", "Renaissance", "Baroque", "Neoclassical"],
+          "correct": 2,
+          "explanation": "The Baroque period, from the 17th to mid-18th century, is characterized by grandeur and drama."
+        },
+        {
+          "id": 7,
+          "question": "What is the name of the ancient Greek sculpture of a male nude, believed to be a copy of a work by Polycleitus?",
+          "options": ["Venus de Milo", "Winged Victory of Samothrace", "Discobolus", "The Laocoön Group"],
+          "correct": 2,
+          "explanation": "The 'Discobolus' (Discus Thrower) is a famous Greek sculpture of an athlete in action."
+        },
+        {
+          "id": 8,
+          "question": "Which Egyptian pharaoh is famous for their gold death mask?",
+          "options": ["Tutankhamun", "Akhenaten", "Ramesses II", "Cleopatra"],
+          "correct": 0,
+          "explanation": "The death mask of Tutankhamun is one of the most iconic artifacts from ancient Egypt."
+        },
+        {
+          "id": 9,
+          "question": "Claude Monet is a key figure in which art movement?",
+          "options": ["Fauvism", "Post-Impressionism", "Expressionism", "Impressionism"],
+          "correct": 3,
+          "explanation": "Monet is considered the founder of French Impressionist painting."
+        },
+        {
+          "id": 10,
+          "question": "What is the term for a painting of inanimate objects, such as fruit or flowers?",
+          "options": ["Portrait", "Landscape", "Still life", "Abstract"],
+          "correct": 2,
+          "explanation": "A still life is a work of art depicting inanimate subject matter."
+        }
+      ]
+    }
+  }
+]
